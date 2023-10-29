@@ -1,4 +1,4 @@
-## LLM for Marketing Content
+### LLM for Marketing Content
 
 #### Introduction
 
@@ -19,6 +19,4 @@ My contributions to this project include:
 #### Conclusion
 
 In conclusion, our work on this project has significantly enhanced marketing personalization, improved dashboard accessibility, and optimized marketing campaigns. We are proud to have contributed to the company's overall success with this innovative marketing content evaluation and refinement tool.
-
-Feel free to explore the project and its demo video to see our solution in action.
 
