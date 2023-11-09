@@ -1,4 +1,4 @@
-### LLM for Marketing Content
+### Leveraging Large Language Models (LLM) for Marketing Campaign
 
 #### Introduction
 
