@@ -2,7 +2,7 @@
 
 #### Introduction
 
-Welcome to the 'LLM for Marketing Content' project, dedicated to building a marketing dashboard capable of evaluating and refining marketing content using LLM (Language Model) to tailor it to specific user personas.
+Welcome to the 'LLM for Marketing Campaign project, dedicated to building a marketing dashboard capable of evaluating and refining marketing content using LLM (Language Model) to tailor it to specific user personas.
 
 #### Objective
 
