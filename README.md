@@ -1,4 +1,4 @@
-![Image 3](image/LLM.jpg)
+![Image 3](image/LLM.png)
 
 #### Introduction
 
