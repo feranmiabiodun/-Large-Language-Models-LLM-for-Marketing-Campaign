@@ -1,4 +1,4 @@
-### Leveraging Large Language Models (LLM) for Marketing Campaign
+![Image 3](image/LLM.jpg)
 
 #### Introduction
 
